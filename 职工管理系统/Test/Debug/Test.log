@@ -1,0 +1,3 @@
+﻿  Test.cpp
+D:\新建文件夹\Test\Test\Test.cpp(71,16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Test.vcxproj -> D:\新建文件夹\Test\Debug\Test.exe
